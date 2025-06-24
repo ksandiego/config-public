@@ -6,6 +6,11 @@ A personal collection of configurations, libraries, tools, etc.
 # Javascript
 https://volta.sh/
 
+# Terminal
+https://ghostty.org/
+https://fishshell.com/
+https://starship.rs/
+
 # Tools
 - https://www.charlesproxy.com/
 - https://dbdiagram.io/
